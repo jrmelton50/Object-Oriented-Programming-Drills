@@ -1,0 +1,1 @@
+This assignment was to get us familiar with the different ways to create objects/classes in javascript. We created a class using object literals, psuedo class, and ES6 syntax. In each class, we defined three attributes and one method.
